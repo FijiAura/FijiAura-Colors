@@ -1,2 +1,9 @@
 # FijiAura-Colors
-Reshade shader pack that can emulate color spaces.
+This is a Reshade shader pack that can replicate color spaces. This is not really for photo editing, more to like increase saturation or smtg
+
+***Please note that this is vibe-coded; feel free to not use if this bothers you, i mainly made it for myself.***
+
+
+
+Currently supported spaces:
+- not coded in rn lol
