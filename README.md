@@ -5,5 +5,8 @@ This is a Reshade shader pack that can replicate color spaces. This is not reall
 
 
 
-Currently supported spaces:
-- not coded in rn lol
+Currently added spaces:
+- Adobe RGB
+- Prophoto RGB
+- scRGB, why not?
+- CMYK-like
